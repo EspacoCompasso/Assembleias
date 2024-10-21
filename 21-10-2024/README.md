@@ -2,10 +2,6 @@
 
 Este documento deveria ter um link, com as obrigações legais que o **Espaço Compasso** tem que definir como objectivos a cumprir, para que em cada reunião, qualquer participante ou qualquer um dos membros do **Espaço Compasso**, tenham à sua frente, para título de curiosidade ou até para consulta. 
 
-1. Apresentação dos pontos a serem discutidos
-2. Ideias para melhoria dos conteúdos.
-3. Propostas e Decisões
-
 ### Abstração
 
 `A necessidade de documentar, vem a propósito da evolução da humanidade, como um instrumento que ajuda a própria humanidade a evoluir. `
@@ -14,15 +10,17 @@ O Foco numa equipa faz 60% do todo o potencial que os membros são capazes de fa
 
 ### Resumo
 
-1. Decisão sobre uma proposta que visa cuidar do **Espaço Compasso**, incluíndo o vários pontos do Jardim e *Casa do Artista*. (Mika) 
+1. Decisão sobre uma proposta que visa cuidar do **Espaço Compasso**, incluíndo a melhoria de vários pontos do Jardim e da *Casa do Artista*. (Mika) 
    - `É necessário entender e lembrar o lado puramente legal, que qualquer associação oficializada perante o Governo de Portugal tem de cumprir, para que, o desenvolvimento da construção e manutenção do edício, cumpra os requesitos necessários.`
    - Numa perspectiva comunitária, uma batalha foi vivída, por falta de foco e falta de transparência das condições reais que qualquer Sócio e Residente, tem como limitação de ação.
+   - Foi lembrada a importância do uso desta plataforma online, como instrumento útil à função de organizar a informação legal e instrumental da comunidade.
 
 ### Sugestões concretas e práticas para a melhoria das Assembleias
 
-A documentação deve estar `acessível` para todos os membros Sócios-Efetivos, que são **livres** de participar, somente ouvindo como também apresentando propostas. 
+- A documentação legal deve estar `acessível` para todos os membros Sócios-Efetivos, que são **livres** de participar, somente ouvindo como também apresentando propostas. 
 
-- É necessário que as reuniões já tenham predefinidos os pontos que a *Direção* tem em mente. (Pré-definição dos pontos que a direção está a dar prioridade)
+**Nota**: É necessário que as reuniões já tenham predefinidos os pontos que a *Direção* tem em mente. (Pré-definição dos pontos que a direção está a dar prioridade)
+
 - Em seguida, por ordem da formalidade, cada membro participante apresenta-se e declara a sua função no espaço.
 - Em seguida, descreve-se ponto a ponto, a situação financeira do espaço.
 - Em seguida, apresenta-se os gastos dos **vários serviços** que o espaço tem de cobrir, incluíndo o aluguer do espaço com os valores associados. 
