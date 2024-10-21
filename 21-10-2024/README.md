@@ -24,7 +24,7 @@ O Foco numa equipa faz 60% de todo o potencial que os membros são capazes de fa
 
 - A documentação legal deve estar `acessível` para todos os membros Sócios-Efetivos, que são **livres** de participar, somente ouvindo como também apresentando propostas. 
 
-**Nota**: É necessário que as reuniões já tenham predefinido, os pontos que a *Direção* tem em mente. (Pré-definição dos pontos que a direção está a dar prioridade)
+**Nota**: É necessário que as reuniões já tenham predefinido, os pontos que a *Direção* tem em mente. 
 
 - Por ordem da formalidade, cada membro participante apresenta-se e declara a sua função no espaço.
 - Em seguida, descreve-se ponto a ponto, a situação financeira do espaço.
