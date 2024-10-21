@@ -6,7 +6,7 @@ Este documento deveria ter um link, com as obrigações legais que o **Espaço C
 
 `A necessidade de documentar, vem a propósito da evolução da humanidade, como um instrumento que ajuda a própria humanidade a evoluir. `
 
-O Foco numa equipa faz 60% de todo o potencial que os membros são capazes de fazer, na sua solitária contribuição e mais 10% nos resultados da totalidade do trabalho de todas as singularidades, isto é, do grupo que se forma a partir dessa dinâmica que demonstra dedicação. 
+O Foco numa equipa faz 60% de todo o potencial que os membros são capazes de fazer, na sua solitária contribuição e mais 10% nos resultados da totalidade do trabalho de todas as singularidades, isto é, do grupo que se forma a partir dessa dinâmica que demonstra dedicação. 20% está entregue à Visão, os restantes 9% dependem somente do resultado da organização e 1% da sorte. 
 
 ### Resumo
 
