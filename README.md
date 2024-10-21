@@ -1,6 +1,6 @@
 # Assembleias
 
-## Documento que lista as Assembleias do Espaço Compasso 
+## Documento que lista as Atas das Assembleias do Espaço Compasso 
 
 ### Resumos datados por pastas de cada assembleia geral
 
