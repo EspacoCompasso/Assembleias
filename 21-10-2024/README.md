@@ -14,6 +14,9 @@ O Foco numa equipa faz 60% do todo o potencial que os membros são capazes de fa
    - `É necessário entender e lembrar o lado puramente legal, que qualquer associação oficializada perante o Governo de Portugal tem de cumprir, para que, o desenvolvimento da construção e manutenção do edício, cumpra os requesitos necessários.`
    - Numa perspectiva comunitária, uma batalha foi vivída, por falta de foco e falta de transparência das condições reais que qualquer Sócio e Residente, tem como limitação de ação.
    - Foi lembrada a importância do uso desta plataforma online, como instrumento útil à função de organizar a informação legal e instrumental da comunidade.
+2. Remodelação do Palco.
+   - O telhado do palco, tem de sair com alguma urgência. A data para tirar as tenhas de latão, não foi definida.
+   - Foi pedido a investigação do revendedor mais lucrativo, para revender estas telhas de latão. 
 
 ### Sugestões concretas e práticas para a melhoria das Assembleias
 
@@ -23,13 +26,13 @@ O Foco numa equipa faz 60% do todo o potencial que os membros são capazes de fa
 
 - Por ordem da formalidade, cada membro participante apresenta-se e declara a sua função no espaço.
 - Em seguida, descreve-se ponto a ponto, a situação financeira do espaço.
+- Em seguida, fala-se dos objectivos e das prioridades financeiras que o **Espaço Compasso** tem.
 - Em seguida, apresenta-se os gastos dos **vários serviços** que o espaço tem de cobrir, incluíndo o aluguer do espaço com os valores associados. 
 - Em seguida, os pontos que foram definidos falar pela *Direção*, são lidos formalmente, um a um.
 - Em seguida, pergunta-se aos presentes, se há propostas que tenham espaço de ação no **Espaço Compasso**.
 - Em seguida, dá-se voz a quem tem uma proposta a fazer, que tem como condição obrigatória os aspectos puramente legais.
 - Em seguida, todas as propostas são discutidas de forma clara e justa para todos.
 - Em seguida, usa-se um sistema de voto para classificar as propostas apresentadas, dando espaço (se necessário) a uma explicação.
-- Em seguida, fala-se dos objectivos e das prioridades financeiras que o **Espaço Compasso** tem.
 - Outros assunto.
 - Resumo e declaração em voz alta das tomadas de decisão.
 - Beijinhos e Abraços
