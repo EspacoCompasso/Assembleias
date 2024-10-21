@@ -15,7 +15,7 @@ O Foco numa equipa faz 60% de todo o potencial que os membros são capazes de fa
    - Numa perspectiva comunitária, uma batalha foi vivída, por falta de foco e falta de transparência das condições reais que qualquer Sócio e Residente, tem como limitação de ação.
    - Foi lembrada a importância do uso desta plataforma online, como instrumento útil à função de organizar a informação legal e instrumental da comunidade.
 2. Remodelação do Palco.
-   - O telhado do palco, tem de sair com alguma urgência. A data para tirar as tenhas de latão, não foi definida.
+   - O telhado do palco, tem de sair com alguma urgência. A data para tirar as telhas de latão, não foi definida.
    - Foi pedido a investigação do revendedor mais lucrativo, para revender estas telhas de latão. 
 
 ### Sugestões concretas e práticas para a melhoria das Assembleias
