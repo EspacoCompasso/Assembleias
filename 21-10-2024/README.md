@@ -27,13 +27,13 @@ A documentação deve estar `acessível` para todos os membros Sócios-Efetivos,
 - Em seguida, descreve-se ponto a ponto, a situação financeira do espaço.
 - Em seguida, apresenta-se os gastos dos **vários serviços** que o espaço tem de cobrir, incluíndo o aluguer do espaço com os valores associados. 
 - Em seguida, os pontos que foram definidos falar pela *Direção*, são lidos formalmente, um a um.
-- Em seguida, pergunta-se aos presentes, se há propostas que tenham espaço de ação do **Espaço Compasso**.
+- Em seguida, pergunta-se aos presentes, se há propostas que tenham espaço de ação no **Espaço Compasso**.
 - Em seguida, dá-se voz a quem tem uma proposta a fazer, que tem como condição obrigatória os aspectos puramente legais.
 - Em seguida, todas as propostas são discutidas de forma clara e justa para todos.
-- Em seguida, usa-se um sistema de voto sobre as propostas apresentadas.
+- Em seguida, usa-se um sistema de voto para classificar as propostas apresentadas, dando espaço (se necessário) a uma explicação.
 - Em seguida, fala-se dos objectivos e das prioridades financeiras que o **Espaço Compasso** tem.
 - Outros assunto.
-- Resumo e declaração das tomadas de decisão.
+- Resumo e declaração em voz alta das tomadas de decisão.
 - Beijinhos e Abraços
 
 `Com seriedade e organização, um olhar focado trás claridade e consciência`
