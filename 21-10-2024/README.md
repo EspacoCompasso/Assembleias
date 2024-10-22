@@ -13,12 +13,14 @@ O Foco numa equipa faz 60% de todo o potencial que os membros são capazes de fa
 1. Decisão sobre uma proposta que visa cuidar do **Espaço Compasso**, incluíndo a melhoria de vários pontos do Jardim e da *Casa do Artista*. (Mika) 
    - `É necessário entender e lembrar o lado puramente legal, que qualquer associação oficializada perante o Governo de Portugal tem de cumprir, para que, o desenvolvimento da construção e manutenção do edício, cumpra os requesitos necessários.`
    - Numa perspectiva comunitária, uma batalha foi vivída, por falta de foco e falta de transparência das condições reais que qualquer Sócio e Residente, tem como limitação de ação.
-   - Decisão foi aprovada por unaminidade. 
+   - Decisão foi aprovada por unanimidade. 
    - Foi lembrada a importância do uso desta plataforma online, como instrumento útil à função de organizar a informação legal e instrumental da comunidade.
 
 2. Remodelação do Palco.
    - O telhado do palco, tem de sair com alguma urgência. A data para tirar as telhas de latão, não foi definida.
-   - Foi pedido a investigação do revendedor mais lucrativo, para revender estas telhas de latão. 
+   - Foi pedido a investigação do revendedor mais lucrativo, para revender estas telhas de latão.
+3. Data da próxima reunião.
+   - Por motivos de excesso de tempo usado nesta reunião, não foi definido uma data para a próxima reunião, que tem muita urgência de acontecer, seguindo um formato formal. 
 
 ### Sugestões concretas e práticas para a melhoria das Assembleias
 
