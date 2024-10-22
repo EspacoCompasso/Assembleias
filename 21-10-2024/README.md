@@ -25,7 +25,7 @@ O Foco numa equipa faz 60% de todo o potencial que os membros são capazes de fa
    - O telhado do palco, tem de sair com alguma urgência. A data para tirar as telhas de latão, não foi definida.
    - Foi pedido a investigação do revendedor mais lucrativo, para revender estas telhas de latão.
    - O valor destas telhas foi de 1048€ havendo a necessidade de recuperar o valor no seu todo, se possível. 
-5. Proposto o retiro de Inverno, como forma de unir a famímia Compasso.
+5. Proposto o retiro de Inverno, como forma de unir a família Compasso.
 6. Foi falada a ação de tramamento do escoamento das águas que apresentam um problema em dias de chuva, para o espaço de terapias. 
 9. Foi proposto mudar os princípios financeiros da associação, para uma associação com fins lucrativos.
    - A proposta não foi discutida, sendo que é um assunto que deverá ser exposto numa reunião da administração. 
