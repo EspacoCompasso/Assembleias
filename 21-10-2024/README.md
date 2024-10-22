@@ -26,13 +26,14 @@ O Foco numa equipa faz 60% de todo o potencial que os membros são capazes de fa
    - Foi pedido a investigação do revendedor mais lucrativo, para revender estas telhas de latão.
    - O valor destas telhas foi de 1048€ havendo a necessidade de recuperar o valor no seu todo, se possível. 
 5. Proposto o retiro de Inverno, como forma de unir a família Compasso.
-6. Foi falada a ação de tramamento do escoamento das águas que apresentam um problema em dias de chuva, para o espaço de terapias. 
+6. Foi falada a ação de tratamento do escoamento das águas que apresentam um problema em dias de chuva, para o espaço de terapias. 
 9. Foi proposto mudar os princípios financeiros da associação, para uma associação com fins lucrativos.
    - A proposta não foi discutida, sendo que é um assunto que deverá ser exposto numa reunião da administração. 
 11. Foi apresentado os gastos mensais que o Compasso tem de fazer mensalmente. 
    - 802€ pela renda do espaço.
    - 1500€ para cobrir outros serviços, tais como, electricidade, água e internet.
 12. Foi anunciado a visita do fiscal da CMP ao Espaço Compasso, para definir as prioridades que são necessárias trabalhar.
+13. Foi referido os valores praticados pela cozinha aos membros do Staff, referindo uma certa injustiça por parte dos mesmos, levando a um dos membros a afirmar que deixará de comer no compasso, por sentir que o Compasso não deveria ter de pagar a totalidade do valor da comida, que é vendida aos restantes membros diários. 
 13. Data da próxima reunião.
    - Por motivos de excesso de tempo usado nesta reunião, não foi definido uma data para a próxima reunião, que tem muita urgência de acontecer, seguindo um formato formal.
  
