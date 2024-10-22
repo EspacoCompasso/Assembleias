@@ -53,6 +53,7 @@ O Foco numa equipa faz 60% de todo o potencial que os membros são capazes de fa
 - Em seguida, usa-se um sistema de voto para classificar as propostas apresentadas, dando espaço (se necessário) a uma explicação.
 - Outros assunto.
 - Resumo e declaração em voz alta das tomadas de decisão.
+- Marcação da próxima reunião.
 - Beijinhos e Abraços
 
 `Com seriedade e organização, um olhar focado trás claridade e consciência`
