@@ -19,7 +19,7 @@ O Foco numa equipa faz 60% de todo o potencial que os membros são capazes de fa
    - Numa perspectiva comunitária, uma batalha foi vivída, por falta de foco e falta de transparência das condições reais que qualquer Sócio e Residente, tem como limitação de ação.
    - Decisão foi aprovada por unanimidade, havendo numa primeira instância, uma possível discordância por parte do Pedro, criando alguns entraves na tomada de decisão.
    - Foi também falado sobre o valor que a antiga residente da *Casa do Artista* pagava, sabendo que as promessas que garantiam a melhoria da *Casa do Artista* não tiveram aplicação durante o tempo que a *Flor* esteve lá a viver, que era de 300€, sendo que 150€ era dedicados à melhoria do edifício. Lembrou-se que a *Flor* também cuidava do Jardim como contribuição Livre do espaço em que vivia e como contribuição recomendada dos resisdentes do espaço.
-   - Lembro-se que a *Casa do Artista* poderá ser alvo de obras mais profundas já em Janeiro, impedindo que a iniciativa do Mika tenha relevo, pois a proposta extende-se por bem mais tempo. 
+   - Lembrou-se que a *Casa do Artista* poderá ser alvo de obras mais profundas já em Janeiro, impedindo que a iniciativa do Mika tenha relevo, pois a proposta extende-se por bem mais tempo. 
 3. Remodelação do Palco.
    - A remodelação do palco, implica mexer na estrutura da *Casa do Artista*, incluindo retirar as telhas metálicas que cobrem aquele espaço. Algo que implica a destruição parcial do investimento da iniciativa do Mika. 
    - O telhado do palco, tem de sair com alguma urgência. A data para tirar as telhas de latão, não foi definida.
