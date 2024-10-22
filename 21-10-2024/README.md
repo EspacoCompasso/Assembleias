@@ -31,10 +31,11 @@ O Foco numa equipa faz 60% de todo o potencial que os membros são capazes de fa
    - A proposta não foi discutida, sendo que é um assunto que deverá ser exposto numa reunião da administração. 
 11. Foi apresentado os gastos mensais que o Compasso tem de fazer mensalmente. 
    - 802€ pela renda do espaço.
-   - 1500€ para cobrir outros serviços, tais como, electricidade, água e internet. 
-12. Data da próxima reunião.
+   - 1500€ para cobrir outros serviços, tais como, electricidade, água e internet.
+12. Foi anunciado a visita do fiscal da CMP ao Espaço Compasso, para definir as prioridades que são necessárias trabalhar.
+13. Data da próxima reunião.
    - Por motivos de excesso de tempo usado nesta reunião, não foi definido uma data para a próxima reunião, que tem muita urgência de acontecer, seguindo um formato formal.
-13. Foi anunciado a visita do fiscal da CMP ao Espaço Compasso, para definir as prioridades que são necessárias trabalhar. 
+ 
 
 ### Sugestões concretas e práticas para a melhoria das Assembleias
 
