@@ -10,7 +10,7 @@ O Foco numa equipa faz 60% de todo o potencial que os membros são capazes de fa
 
 ### Resumo
 
-- Fizeram-se presentes os membros: Josa, Pedro, Patrícia, Oscar, Teresa e Fábio. Ainda apareceu mais tarde o Mika. 
+- Fizeram-se presentes os membros: Josa, Pedro, Patrícia, Oscar e Teresa. Ainda apareceu mais tarde o Mika. 
 - Reunião online a partir da plataforma Microsoft-Teams. 
 
 1. Decisão sobre uma proposta que visa cuidar do **Espaço Compasso**, incluíndo a melhoria de vários pontos do Jardim e da *Casa do Artista*. (Mika)
@@ -33,7 +33,10 @@ O Foco numa equipa faz 60% de todo o potencial que os membros são capazes de fa
    - 802€ pela renda do espaço.
    - 1500€ para cobrir outros serviços, tais como, electricidade, água e internet.
 12. Foi anunciado a visita do fiscal da CMP ao Espaço Compasso, para definir as prioridades que são necessárias trabalhar.
-13. Foi referido os valores praticados pela cozinha aos membros do Staff, referindo uma certa injustiça por parte dos mesmos, levando a um dos membros a afirmar que deixará de comer no compasso, por sentir que o Compasso não deveria ter de pagar a totalidade do valor da comida, que é vendida aos restantes membros diários. 
+13. Foi referido os valores praticados pela cozinha aos membros do Staff, referindo uma certa injustiça por parte dos mesmos, levando a um dos membros a afirmar que deixará de comer no compasso, por sentir que o Compasso não deveria ter de pagar a totalidade do valor da comida, que é vendida aos restantes membros diários.
+   - Comentário que terá de ser clarificado, pois o EC nunca pagou na totalidade o valor das refeições vendidas aos membros-diários, aos membros da cozinha.
+   - Poderá haver certos ajustes que terão de ser feitos, pois certos eventos têm demasiado pessoal do Staff, sendo que a cozinha terá vendido poucas refeições.
+   - **Nota Pessoal** (Oscar): É necessário acrescentar em todos os eventos que tenham cozinha activa, a descrição dos detalhes que irão haver, tal como a sopa, prato e bebidas, nas redes sociais, para garantir mais refeições e também é necessário que haja um mínimo necessário de voluntários e por consequência, de refeições cobridas pelo EC. 
 13. Data da próxima reunião.
    - Por motivos de excesso de tempo usado nesta reunião, não foi definido uma data para a próxima reunião, que tem muita urgência de acontecer, seguindo um formato formal.
  
