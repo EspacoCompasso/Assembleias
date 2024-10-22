@@ -10,7 +10,7 @@ O Foco numa equipa faz 60% de todo o potencial que os membros são capazes de fa
 
 ### Resumo
 
-- Fizeram-se presentes os membros: Josa, Pedro, Patrícia, Oscar, Tereza e Fábio. Ainda apareceu mais tarde o Mika. 
+- Fizeram-se presentes os membros: Josa, Pedro, Patrícia, Oscar, Teresa e Fábio. Ainda apareceu mais tarde o Mika. 
 - Reunião online a partir da plataforma Microsoft-Teams. 
 
 1. Decisão sobre uma proposta que visa cuidar do **Espaço Compasso**, incluíndo a melhoria de vários pontos do Jardim e da *Casa do Artista*. (Mika)
