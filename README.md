@@ -9,3 +9,5 @@ O **Espaço Compasso** é uma associação legal "sem fins lucrativos", sendo qu
 #### Encontros presenciais ou online
 
 - Resumo da Reunião e Ata do dia [21-10-2024](https://github.com/EspacoCompasso/Assembleias/tree/main/21-10-2024) : Formato Online
+- Resumo da Reunião e Ata do dia [14-10-2024](https://github.com/EspacoCompasso/Assembleias/blob/main/14-08-2024/README.md) : Formato online
+
