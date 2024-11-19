@@ -247,7 +247,7 @@ Livre
 ```
 
 Devo dizer que é este tipo de interações que têm e devem acontecer. 
-Corrigir o que mal que os outros fazem é sempre um gesto que permite ao errante aprender e melhorar.
+Corrigir o mal que os outros fazem é sempre um gesto que permite ao errante aprender e melhorar.
 Gostaria que o Presidente partilhasse esta nota e que colaborasse nesta plataforma, para ser mais fácil documentar todos os pontos, pois é possível adicionar links para os documentos em questão e dessa forma, facilita a leitura para todos os membros. 
 
 A questão da forma como nos dirigimos é realmente outra parte do problema que nem sempre é fácil resolver. 
