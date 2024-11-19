@@ -24,17 +24,15 @@ Responsável - Rodrigo Curamin
 
 ### Serviço voluntário e maus entendidos
 
-1. Joaquim Monteiro(JM) sugere atribuir responsabilidades a quem faz os eventos
+1. Joaquim Monteiro(JM) sugere atribuir responsabilidades a quem faz os eventos.
+- JM sugere ter cobretores diferentes para cada evento [Turtúlias] e [Tamascal]
+3. Pedro Teixeira(PT) trás lenha e mantas para o Tamascal
+- PT dorme no EC sem avisar previamente e sem ser actualmente sócio efetivo.
+- PT cria instabilidade e tem uma postura desagradável com JM.
+- PT torna-se assuntos sobre o seu historial passado, como presidente do EC.
+- M sentiu-se ameaçado com a forma como PT se dirigiu para ele no Evento das "Bruxas". 
 
-   i. JM sugere ter cobretores diferentes para cada evento [Turtúlias] e [Tamascal]
-
-3. Pedro Teixeira(PT) trás lenha e mantas
-   i. PT dorme no EC sem avisar previamente e sem ser actualmente sócio efetivo.
-   ii. PT cria instabilidade e tem uma postura desagradável com JM.
-   iii. PT torna-se assuntos sobre o seu historial passado, como presidente do EC.
-   iv. JM sentiu-se ameaçado com a forma como PT se dirigiu para ele no Evento das "Bruxas". 
-
-5. Pedro Teixeira tem o direito de defender as suas escolhas, antes da tomada de decisões mais efectivas.  
+8. Pedro Teixeira tem o direito de defender as suas escolhas, antes da tomada de decisões mais efectivas.  
 
 ### Necessidades Básicas e Essencias
 
@@ -68,6 +66,7 @@ Comprar um aspirador - Tirar dinheiro em caixa para comprar
 ### Plano prático
 
 Pi não tem chave do correio: pediu à X meses.  
+
 `Hack da Pi permite ver se há cartas no correio e tira-las sem ter chave.`  (old school solutions)
 
 ### Plano eléctrico 
@@ -79,28 +78,33 @@ Tratar da electricidade. Falar com Filipe.
 - Josa fala com Filipe para tratar o mais depressa possível da **Electricidade**
 
 ### Atribuição de Estatutos
+
 Convidar Curomin a ser presidente do conselho fiscal.
+
 Rodrigo é a pessoa responsável de qualquer intervenção das Obras no EC. 
 
 ### Investimento na sala de Terapias
+
 - Pi e Teresa avançam com o uso dos 120€ para melhorar a [Sala de terapias](https://github.com/EspacoCompasso/Terapy_Room), sendo este dinheiro o que foi armazenado nos últimos 6 meses.
 1. Utilização de uso por parte do Joaquim Monteiro da Sala de Terapias que não foi contado para fins de uso do Computador. 
 2. Terapias que foram feitas fora do EC(Espaço Compasso) e que não foram retiradas do Calendário.
 3. A acessibilidade é uma necessidade mínima para garantir clientes da ST(Sala de Terapias)
 
 ### Prioridades Legais
-Apresentação plano de "actividades" da reformulação do EC. 
 
-### Comentários sobre a reunião
-- Joaquim Monteiro demonstra-se incapaz de entender que não se deve cobrar pela falta de retorno económico, sem a participação dele nesse espaço, sendo que o usa várias vezes para estar no computador e não contabilizou esse uso, quando está a pôr em causa o esforço das duas pessoas responsáveis pelo espaço que o dinimizaram desde o zero, via a participação activa da Pi e nunca com a participação activa do Joaquim Monteiro.  
-- `A Energia é invididual` e o **Trabalho** coletivo. Se o Joaquim Monteiro não participou, não tem o direito de reclamar. 
-- Pi pede desculpas pela forma como ela intervêm quanto às injustiças que são declaradas pelo Joaquim Monteiro. 
-- Josa demonstra a sua arte para transformar colheres de madeira feitas pelo Nico e acrescentar uma personalização como demonstração de Amor. 
+Apresentação plano de "actividades" da reformulação do EC. 
 
 ### Próxima Reunião
 
 Reunião de 8 Dezembro é adiada? (Fevereiro?) 
 Todos sabem que a Assembleia Geral que só se repete duas vezes por ano, terá poucas pessoas, para a infelicidade de todos, mas para haver participação desta reunião e não haver participação no lado puramente prático, é dispensável haver pessoas presentes nesta Assembleia geral que não queiram participar activamente no EC.
+
+### Comentários sobre a reunião
+
+- Joaquim Monteiro demonstra-se incapaz de entender que não se deve cobrar pela falta de retorno económico, sem a participação dele nesse espaço, sendo que o usa várias vezes para estar no computador e não contabilizou esse uso, quando está a pôr em causa o esforço das duas pessoas responsáveis pelo espaço que o dinimizaram desde o zero, via a participação activa da Pi e nunca com a participação activa do Joaquim Monteiro.  
+- `A Energia é invididual` e o **Trabalho** coletivo. Se o Joaquim Monteiro não participou, não tem o direito de reclamar. 
+- Pi pede desculpas pela forma como ela intervêm quanto às injustiças que são declaradas pelo Joaquim Monteiro. 
+- Josa demonstra a sua arte para transformar colheres de madeira feitas pelo Nico, acrescentando uma personalização como demonstração de Amor. 
 
 ### Comentário do Autor  deste "artigo"
 
