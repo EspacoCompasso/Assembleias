@@ -27,7 +27,7 @@ O **Espaço Compasso** é uma associação legal "sem fins lucrativos", sendo qu
 5. Eleger os titulares dos órgãos sociais;
 6. Fixar, mediante proposta da Direção, o valor da quota;
 7. Deliberar sobre quaisquer outros assuntos de interesse para a Associação, não compreendidos nas atribuições e competências de outros órgãos;
-8. Exercer as demais competências conferidas por Lei, pelos Estatutos ou pelo presente Regulamento Interno.
+8. Exercer as demais competências conferidas por Lei, pelos [Estatutos](https://github.com/EspacoCompasso/Estatutos_e_Deveres/issues) ou pelo presente Regulamento Interno.
 
 #### Compete especialmente ao Presidente da Mesa da Assembleia Geral:
 
