@@ -255,7 +255,7 @@ Esta noite (dia 19 de Novembro de 2024) ainda tive a tentar falar com o Seed que
 
 A Maria, ficou **Sentida** com um mínimo que aconteceu entre mim e ela e que lhe gerou desagrado. O meu pedido de desculpas aconteceu no momento do desagrado e continua a demonstrar-se ressentida com a minha presença. 
 
-O Seed em comentário depois de uma conversa comigo disse que: "quem não responde a mensagens é porque não pode ajudar ou não quer". Sendo que ao haver uma negação de participação entre o Óscar e a Maria, o Óscar reteve-se em silêncio, criando irritabilidade no Seed. ( A melhor forma de explicar o sentimento do Óscar, foi cria-lo ao Seed ), aquando num grupo de 25 membros do Staff só dois ou três é que se dão ao trabalho de responder. 
+O Seed em comentário depois de uma conversa comigo disse que: "quem não responde a mensagens é porque não pode ajudar ou não quer". Sendo que ao haver uma negação de participação entre o Óscar e a Maria, o Óscar reteve-se em silêncio, criando irritabilidade no Seed que tentava ajudar a Maria a coordenar o Evento das Danças. ( A melhor forma de explicar o sentimento do Óscar, foi cria-lo ao Seed ), aquando num grupo de 25 membros do Staff só dois ou três é que se dão ao trabalho de responder. Não sei como ficou a sala no fim do evento, mas certamente que a Maria terá tido a ajuda do Seed, pois demonstraram que a minha presença não era bem vinda e como tal, saí. 
 
 Este foi o último dia das aulas de Dança no Compasso. Tenho pena de não me ter despedido do professor Eduardo que acompanhei durante os últimos 6 meses, sem ajuda, salvo nos últimos 2 meses haver pessoas que se proposeram a ajudar no evento. 
 
