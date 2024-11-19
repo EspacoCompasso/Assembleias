@@ -12,6 +12,6 @@ echo "ssh-key-id added"
 git add . 
 read -p "Add Commit Message: " message 
 git commit -m " $message "  
-git push git@github.com:DaoExpression/repos-and-links
+git push git@github.com:EspacoCompasso/Meetings
 echo "Repositório Actualizado"
 sleep 3
