@@ -166,7 +166,7 @@ Convidar Curomin a ser presidente do conselho fiscal.
 
 > Correção do Presidente
 >
-> Joaquim Monteiro renova o pedido de relatório de entrada de fundos, pois existem mais de 50 entgradas de consulas _fadas_ em calendário e apenas 120€ em caixa. Joaquim Monteiro deu 2 consultas e e deixou 20€ na caixa, como estava estabelecido, restam justificar 50 consultas registadas que renderam 100€ em 6 meses.
+> Joaquim Monteiro renova o pedido de relatório de entrada de fundos, pois existem mais de 50 entgradas de consultas _marcadas_ em calendário e apenas 120€ em caixa. Joaquim Monteiro deu 2 consultas e e deixou 20€ na caixa, como estava estabelecido, restam justificar 50 consultas registadas que renderam 100€ em 6 meses.
 
 ### Prioridades Legais
 
