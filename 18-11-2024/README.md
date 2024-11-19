@@ -251,7 +251,7 @@ A questão da forma como nos dirigimos é realmente outra parte do problema que 
 
 Existe um ditado que diz: "Tenta não te transformares em tudo o que foram contigo", mas por vezes é difícil não me transformar em tudo o que foram comigo. Tenho essa consciência e gostaria de melhorar, caso tenha essa oportunidade. 
 
-Esta noite ainda tive a tentar falar com o Seed, mas até ele falhou, num processo que também foi demasiado intenso para mim, criando essa intensidade para ele.
+Esta noite (dia 19 de Novembro de 2024) ainda tive a tentar falar com o Seed que apareceu no Compasso sem avisar, mas até ele falhou, num processo que também foi demasiado intenso para mim, criando essa intensidade para ele, sendo que ficou como bengala de apoio da Maria.
 
 A Maria, ficou **Sentida** com um mínimo que aconteceu entre mim e ela e que lhe gerou desagrado. O meu pedido de desculpas aconteceu no momento do desagrado e continua a demonstrar-se ressentida com a minha presença. 
 
