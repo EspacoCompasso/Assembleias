@@ -14,7 +14,7 @@ O **Espaço Compasso** é uma associação legal "sem fins lucrativos", sendo qu
 
 #### Assembleia Geral 
 
-    Competências da Assembleia Geral 
+      Competências da Assembleia Geral 
 
 - A Assembleia Geral, constituída por Presidente e dois Secretários, orienta superiormente a vida e ação da Associação, de harmonia com os estatutos e o regulamento.
 
@@ -29,20 +29,20 @@ O **Espaço Compasso** é uma associação legal "sem fins lucrativos", sendo qu
 7. Deliberar sobre quaisquer outros assuntos de interesse para a Associação, não compreendidos nas atribuições e competências de outros órgãos;
 8. Exercer as demais competências conferidas por Lei, pelos Estatutos ou pelo presente Regulamento Interno.
 
-- Compete especialmente ao Presidente da Mesa da Assembleia Geral:
+#### Compete especialmente ao Presidente da Mesa da Assembleia Geral:
 
 1. Convocar a reunião da Assembleia Geral;
 2. Dirigir os trabalhos das sessões;
 3. Assinar com os secretários as Atas das sessões;
 4. Dar posse aos titulares dos órgãos sociais eleitos em Assembleia Geral.
 
-- Compete especialmente aos Secretários: 
+#### Compete especialmente aos Secretários: 
 
 1. Coadjuvar o Presidente na direção dos trabalhos;
 2. Elaborar as atas das sessões e assiná-las com o Presidente;
 3. Na ausência de um, ou dos dois secretários, o Presidente nomeará substitutos de entre os presentes na reunião da Assembleia Geral.
 
-- Funcionamento da Assembleia Geral 
+#### Funcionamento da Assembleia Geral 
 
 1. A Assembleia Geral Ordinária reúne duas vezes em cada ano, para aprovação do Relatório e contas do ano anterior, e a outra para aprovação do Plano de Atividades e Orçamento para o ano seguinte.
 2. A Assembleia Geral Extraordinária reúne sempre que, legitimamente convocada, a requerimento da Direção ou do seu Presidente, do Conselho Fiscal ou subscrito por um conjunto de associados não inferior a vinte por cento da sua totalidade. ~
