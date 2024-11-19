@@ -30,13 +30,14 @@ Responsável - Rodrigo Curamin
 - PT dorme no EC sem avisar previamente e sem ser actualmente sócio efetivo.
 - PT cria instabilidade e tem uma postura desagradável com JM.
 - PT torna-se assuntos sobre o seu historial passado, como presidente do EC.
-- M sentiu-se ameaçado com a forma como PT se dirigiu para ele no Evento das "Bruxas". 
+- JM sentiu-se ameaçado com a forma como PT se dirigiu para ele no Evento das "Bruxas". 
 
 8. Pedro Teixeira tem o direito de defender as suas escolhas, antes da tomada de decisões mais efectivas.  
 
 ### Necessidades Básicas e Essencias
 
 Deveres + Ações = Direitos 
+
 Liberdades - Responsabilidades = Injustiças
 
 O que significa que 1 + 1 = 1 OU 3 [道](https://art.odicforcesounds.com/pages/YinYang/Dao/index.html)
@@ -61,6 +62,7 @@ O que significa que 1 + 1 = 1 OU 3 [道](https://art.odicforcesounds.com/pages/Y
 7. Armários e material que não seja do EC. 
 
 Comprar um aspirador - Tirar dinheiro em caixa para comprar
+
 1. Comprar online é uma solução. 
 
 ### Plano prático
@@ -97,6 +99,7 @@ Apresentação plano de "actividades" da reformulação do EC.
 ### Próxima Reunião
 
 Reunião de 8 Dezembro é adiada? (Fevereiro?) 
+
 Todos sabem que a Assembleia Geral que só se repete duas vezes por ano, terá poucas pessoas, para a infelicidade de todos, mas para haver participação desta reunião e não haver participação no lado puramente prático, é dispensável haver pessoas presentes nesta Assembleia geral que não queiram participar activamente no EC.
 
 ### Comentários sobre a reunião
