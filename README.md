@@ -1,4 +1,4 @@
-# Assembleias
+# Reuniões Semanais e Assembleias Gerais Anuais
 
 ## Documento que lista as Atas das Assembleias do Espaço Compasso 
 
