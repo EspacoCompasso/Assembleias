@@ -24,9 +24,6 @@ JM- Ficou decidido faz muito tempo que as colunas grandes do estudio eram para v
 
 O "Plano de Actividades" está a ser definido pelas pessoas que têm voto na matéria e como tal, é algo que os restantes membros do EC não têm voto na matéria. São obrigações legais que pedem soluções igualmente legais. 
 
-
-- Todas as pessoas têm voto na matéria e quem quiser deve se envolver nessa solução. Existe uma inevitabilidade de responder às ilegalidades encontradas em 2022 pela CMPORTO e temos até janeiro para apresentar um plano de intervenção para ser aprovado antes de fazer as obras. Caso contrário seremos multados e possivelmente pedem para fechar o espaço ao público enquanto não estiver resolvida a situação. 
-
 `Curamin e Ivo (José Teixeira, Fábio Pereira e Joaquim Monteiro) estão a trabalhar nesse sentido` - Plano Efetivo será apresentado até 8 de Dezembro.
 
 > Correção feita pelo Presidente:
