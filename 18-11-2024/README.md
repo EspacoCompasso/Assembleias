@@ -25,15 +25,16 @@ Responsável - Rodrigo Curamin
 ### Serviço voluntário e maus entendidos
 
 1. Joaquim Monteiro(JM) sugere atribuir responsabilidades a quem faz os eventos
-  a. JM sugere ter cobretores diferentes para cada evento [Turtúlias] e [Tamascal]
 
-3. Pedro Teixeira(PT) trás lenha e mantas  
-  a. PT dorme no EC sem avisar previamente e sem ser actualmente sócio efetivo.
-  b. PT cria instabilidade e tem uma postura desagradável com JM.
-  c. PT torna-se assuntos sobre o seu historial passado, como presidente do EC. 
-  d. JM sentiu-se ameaçado com a forma como PT se dirigiu para ele no Evento das "Bruxas". 
+   i. JM sugere ter cobretores diferentes para cada evento [Turtúlias] e [Tamascal]
 
-4. Pedro Teixeira tem o direito de defender as suas escolhas, antes da tomada de decisões mais efectivas.  
+3. Pedro Teixeira(PT) trás lenha e mantas
+   i. PT dorme no EC sem avisar previamente e sem ser actualmente sócio efetivo.
+   ii. PT cria instabilidade e tem uma postura desagradável com JM.
+   iii. PT torna-se assuntos sobre o seu historial passado, como presidente do EC.
+   iv. JM sentiu-se ameaçado com a forma como PT se dirigiu para ele no Evento das "Bruxas". 
+
+5. Pedro Teixeira tem o direito de defender as suas escolhas, antes da tomada de decisões mais efectivas.  
 
 ### Necessidades Básicas e Essencias
 
