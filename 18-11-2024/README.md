@@ -267,4 +267,8 @@ Isto faz-me pensar num texto que ainda irei escrever e que terá como nome: "A P
 É que o tempo da singularidade é para a singularidade, absoluto, enquanto que para os restantes é relativo. 
 Todos poderão dedicar-se mais tempo ou menos tempo ao Espaço Compasso, mas o importante entender, é que as "acusações" que cobram o que os outros não fazem, são na verdade pedidos de ajuda, de pessoas que sentem que ninguém as ajuda. Os silêncios das respostas que não foram respondidas, são demonstrações de desinteresse coletivo, pois todos podem responder. "Sim" ou "Não" sem qualquer outra explicação, pois essa é a _Liberdade de **Movimento** e a Liberdade de Expressão_. 
 
-
+Bob liga-me como a "esperança" de haver alguém no próximo evento ( sábado ) para o ajudar. 
+Eu disse que sim, mas na verdade a minha vontade é dizer: Seed e Maria, agora é a vossa oportunidade de trabalharem juntos nos eventos que precisam de mão de obra barata. 
+Cada um dá o que quer dar e eu quero dar isto. Comentários escritos. Mais do que isto não vou dar. 
+Já dei e mesmo que até o Seed tenha passado por isso, ele que dê essa energia física, pois como ele saberá, é ingrato para os que trabalham no dia-a-dia, ouvir os comentários de quem não está, a falar do que está bem ou mal, em tudo aquilo que não ajudou. Se o Seed gosta dessa ingratidão de uma comunidade, quem sou eu de lhe impedir que esse seu sonho se realize? 
+Seed também disse que iria aparecer no compasso no sábado, com a família. Eis uma boa altura para apresentar a Maria à família e dizer à família que ajudar a Maria é uma prioridade. 
