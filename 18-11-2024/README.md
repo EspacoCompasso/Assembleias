@@ -138,13 +138,13 @@ Convidar Curomin a ser presidente do conselho fiscal.
 ### Investimento na sala de Terapias
 
 
-- Pi e Teresa avançam com o uso dos 120€ para melhorar 0 Espaço Multiusos  (https://github.com/EspacoCompasso/Terapy_Room), sendo este dinheiro o que foi armazenado nos últimos 6 meses. ( Joaquim Monteiro renova o pedido de relatório de entrada de fundos pois existem mais de 50 entradas de consultas fadas em calendário e apenas 120 euros em caixa. Sendo que deu 2 consultas e deixou 20€ na caixa como estava inicialmente estabelecido, restam justificar 50 consultas registadas que renderam 100€ em 6 meses.) 
+> - Pi e Teresa avançam com o uso dos 120€ para melhorar 0 Espaço Multiusos  (https://github.com/EspacoCompasso/Terapy_Room), sendo este dinheiro o que foi armazenado nos últimos 6 meses. ( Joaquim Monteiro renova o pedido de relatório de entrada de fundos pois existem mais de 50 entradas de consultas fadas em calendário e apenas 120 euros em caixa. Sendo que deu 2 consultas e deixou 20€ na caixa como estava inicialmente estabelecido, restam justificar 50 consultas registadas que renderam 100€ em 6 meses.) 
 
-1. Utilização de uso por parte do Joaquim Monteiro da Sala de Terapias (Sala Multiusos) que não foi contado para fins de uso do Computador. (É uma sala dedicada à Direção e aos seus 3 membros. Estar no computador a tratar dos assuntos da direção do EC é a obrigação enquanto membros voluntários efetivos da Direção. )
+> 1. Utilização de uso por parte do Joaquim Monteiro da Sala de Terapias (Sala Multiusos) que não foi contado para fins de uso do Computador. (É uma sala dedicada à Direção e aos seus 3 membros. Estar no computador a tratar dos assuntos da direção do EC é a obrigação enquanto membros voluntários efetivos da Direção. )
 
-3. Terapias que foram feitas fora do EC(Espaço Compasso) e que não foram retiradas do Calendário. (Quais das mais de 50 consultas que não foram retiradas do calendário?)
+> 3. Terapias que foram feitas fora do EC(Espaço Compasso) e que não foram retiradas do Calendário. (Quais das mais de 50 consultas que não foram retiradas do calendário?)
   
-4. A acessibilidade é uma necessidade mínima para garantir clientes da Sala Multiusos
+> 4. A acessibilidade é uma necessidade mínima para garantir clientes da Sala Multiusos
 
 - Pi e Teresa avançam com o uso dos 120€ para melhorar a [Sala de Terapias](https://github.com/EspacoCompasso/Terapy_Room), sendo este dinheiro o que foi armazenado nos últimos 6 meses.
 1. Utilização de uso por parte do Joaquim Monteiro da Sala de Terapias que não foi contado para fins de uso do Computador. 
@@ -200,7 +200,7 @@ Todos sabem que a Assembleia Geral que só se repete duas vezes por ano( é esta
 
 Educativos, 
 Poéticos e Divertidos, 
-São os Comentários de [Macacos](https://github.com/DaoExpression)
+São os Comentários dos [Macacos](https://github.com/DaoExpression)
 
 -Estamos com receio de algo? 
 
