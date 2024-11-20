@@ -85,7 +85,7 @@ O que significa que 1 + 1 = 1 OU 3 [道](https://art.odicforcesounds.com/pages/Y
 
 ### Acessos 
 
-- Dizer ao Suraj para tirar a Elisangela Marques Bezerra, Pedro Teixeira, João Viana, Flor Carvalho, Chiara Bellucci, Analisa Neves, Ana Ferreira Adão, Johnny Labriola, Francisco Torres do Teams.
+> - Dizer ao Suraj para tirar a Elisangela Marques Bezerra, Pedro Teixeira, João Viana, Flor Carvalho, Chiara Bellucci, Analisa Neves, Ana Ferreira Adão, Johnny Labriola, Francisco Torres do Teams.
 
 1. Este documento existe no Teams.
    > Correção do Presidente:
@@ -95,11 +95,6 @@ O que significa que 1 + 1 = 1 OU 3 [道](https://art.odicforcesounds.com/pages/Y
 3. Transferir e simplificar documento para ser mais fácil definir a lista de obrigações e deveres.
    > Todas as obrigações e deveres quer dos sócios quer dos órgãos e dos cargos associados aos órgão, estão contemplados no **RI**AIÁCA. 
 5. Criar um mecanismo de controlo dos mesmos, para garantir o bom funcionamento do EC. 
-
-### Acessos 
-
-- Dizer ao Suraj para tirar o Pedro Teixeira, JP e Flor do Teams bem como os que já não fazem parte da estrutura.
-
 
 ### Ideias úteis e Soluções Fáceis
 
