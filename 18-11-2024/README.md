@@ -7,13 +7,9 @@ Josa, Patrícia, Teresa, Joaquim, Óscar, Fábio
 1. Bob quer comprar sistema de som antigo (Colunas Grandes) que não são usadas à anos.
   - Sim? Não? `Eis a Questão` Questão essa que não foi respondida.
 
-JM- Ficou decidido faz muito tempo que as colunas grandes do estudio eram para vender e por isso está aprovado que o Bob pode e deve vender as ditas colunas.
-
-
 > Correção feita pelo Presidente
 >
 > - Sim. Ficou decidido desde à muito tempo, que as colunas eram para vender e por isso, está aprovado que o Bob pode e deve vender as ditas colunas.
-
 
 ### Obras 
 
@@ -63,7 +59,7 @@ Responsável - Rodrigo Curamin
 - PT tem um histórico de conflitos com muitos membros do Compasso. Josa confirma que também ele tem inúmeras situações de desentendimento e que tem muitas reservas em trabalhar com ele. 
 
 - Foram propostas Sanções a apresentar em Assembleia-Geral ao Pedro Teixeira. 
-=======
+
 - JM sentiu-se ameaçado com a forma como PT se dirigiu para ele no Evento das "Bruxas".
 
   > Correção do Presidente:
