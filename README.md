@@ -1,5 +1,6 @@
+# Atas
 
-## Documento que lista as Atas das Reuniões e Assembleias Gerais do Espaço Compasso 
+Este documento lista as Atas das várias Reuniões semanais e Assembleias Gerais do Espaço Compasso  
 
 ### Resumos datados por pastas de cada assembleia geral
 
