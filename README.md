@@ -13,11 +13,19 @@ O **Espaço Compasso** é uma associação legal "sem fins lucrativos", sendo qu
 - Resumo da Reunião e Ata do dia [28-10-2024](https://github.com/EspacoCompasso/Assembleias/tree/main/28-10-2024) : Formato Online
 - Resumo da Reunião e Ata do dia [18-11-2024](https://github.com/EspacoCompasso/Meetings/tree/main/18-11-2024) : Formato Online
 
+#### Lista de reuniões internas
+
+Estas reuniões são exporádicas e acontecem por motivos de planeamento e organização das tarefas legais e assuntos internos
+
+- Resumo e Ata do dia [25-11-2024]() 
+- Resumo e Ata do dia [21-11-2024](./Encontros_internos/21-11-2024.md) : Formato Presencial 
+  - Referente à issue: https://github.com/EspacoCompasso/Reconstruction/issues/2 
+
 #### Assembleia Geral 
 
     Competências da Assembleia Geral 
 
-- A Assembleia Geral, constituída por Presidente e dois Secretários, orienta superiormente a vida e ação da Associação, de harmonia com os estatutos e o regulamento.
+- A Assembleia Geral, constituída por: Presidente e dois Secretários, orienta superiormente a vida e ação da Associação, de harmonia com os estatutos e o regulamento.
 
     São atribuições da Assembleia Geral:
 
@@ -46,20 +54,12 @@ O **Espaço Compasso** é uma associação legal "sem fins lucrativos", sendo qu
 #### Funcionamento da Assembleia Geral 
 
 1. A Assembleia Geral Ordinária reúne duas vezes em cada ano, para aprovação do Relatório e contas do ano anterior, e a outra para aprovação do Plano de Atividades e Orçamento para o ano seguinte.
-2. A Assembleia Geral Extraordinária reúne sempre que, legitimamente convocada, a requerimento da Direção ou do seu Presidente, do Conselho Fiscal ou subscrito por um conjunto de associados não inferior a vinte por cento da sua totalidade. ~
+2. A Assembleia Geral Extraordinária reúne sempre que, legitimamente convocada, a requerimento da Direção ou do seu Presidente, do Conselho Fiscal ou subscrito por um conjunto de associados não inferior a vinte por cento da sua totalidade.
 3. A convocação da Assembleia Geral será feita mediante publicação do respetivo aviso na sede da Associação, com a antecedência mínima de oito dias, na qual se indicará o dia, a hora e o local da reunião, bem como a respetiva ordem de trabalhos, não podendo deliberar sobre matéria estranha à Ordem de Trabalhos definida, salvo se todos os associados em pleno gozo dos seus direitos estiverem presentes ou representados.
 4. Não existindo suficiência de quórum, a Assembleia Geral poderá realizar-se trinta minutos após a hora constante da convocatória e com o número de associados em pleno gozo dos seus direitos presentes ou representados.
 5. O trabalho processar-se-á nos termos legais e estatutariamente previstos e serão dirigidos por uma Mesa, constituída por um Presidente e dois Secretários.
 6. Cada associado no pleno gozo dos seus direitos tem direito a um voto.
 7. Salvo disposição em contrário, as deliberações são tomadas por maioria absoluta dos associados presentes ou representados, sempre no pleno gozo dos seus direitos.
 8. Quando houver eleições a Ata da Assembleia Geral será elaborado no prazo máximo de setenta e duas horas a contar do encerramento da reunião da Assembleia Geral. 
-
-#### Lista de reuniões internas
-
-Estas reuniões são exporádicas e acontecem por motivos de planeamento e organização das tarefas legais
-
-- Resumo e Ata do dia [25-11-2024]() 
-- Resumo e Ata do dia [21-11-2024](./Encontros_internos/21-11-2024.md) : Formato Presencial 
-  - Referente à issue: https://github.com/EspacoCompasso/Reconstruction/issues/2 
 
 
