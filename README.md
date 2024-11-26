@@ -52,3 +52,13 @@ O **Espaço Compasso** é uma associação legal "sem fins lucrativos", sendo qu
 6. Cada associado no pleno gozo dos seus direitos tem direito a um voto.
 7. Salvo disposição em contrário, as deliberações são tomadas por maioria absoluta dos associados presentes ou representados, sempre no pleno gozo dos seus direitos.
 8. Quando houver eleições a Ata da Assembleia Geral será elaborado no prazo máximo de setenta e duas horas a contar do encerramento da reunião da Assembleia Geral. 
+
+#### Lista de reuniões internas
+
+Estas reuniões são exporádicas e acontecem por motivos de planeamento e organização das tarefas legais
+
+- Resumo e Ata do dia [25-11-2024]() 
+- Resumo e Ata do dia [21-11-2024](./Encontros_internos/21-11-2024.md) 
+  - Referente à issue: https://github.com/EspacoCompasso/Reconstruction/issues/2 
+
+
