@@ -8,16 +8,16 @@ O **Espaço Compasso** é uma associação legal "sem fins lucrativos", sendo qu
 
 #### Lista com o Resumo das Reuniões Semanais e presenciais ou em formato online
 
-- Resumo da Reunião e Ata do dia [14-10-2024](https://github.com/EspacoCompasso/Assembleias/blob/main/14-08-2024/README.md) : Formato online
-- Resumo da Reunião e Ata do dia [21-10-2024](https://github.com/EspacoCompasso/Assembleias/tree/main/21-10-2024) : Formato Online
-- Resumo da Reunião e Ata do dia [28-10-2024](https://github.com/EspacoCompasso/Assembleias/tree/main/28-10-2024) : Formato Online
-- Resumo da Reunião e Ata do dia [18-11-2024](https://github.com/EspacoCompasso/Meetings/tree/main/18-11-2024) : Formato Online
+- Resumo da Reunião e Ata do dia [14-10-2024](./arquivo/2024/14-08-2024.md) : Formato online
+- Resumo da Reunião e Ata do dia [21-10-2024](./arquivo/2024/21-10-2024.md) : Formato Online
+- Resumo da Reunião e Ata do dia [28-10-2024](./arquivo/2024/28-10-2024.md) : Formato Online
+- Resumo da Reunião e Ata do dia [18-11-2024](./arquivo/2024/18-11-2024.md) : Formato Online
 
 #### Lista de reuniões internas
 
 Estas reuniões são exporádicas e acontecem por motivos de planeamento e organização das tarefas legais e assuntos internos
 
-- Resumo e Ata do dia [25-11-2024]() 
+- Resumo e Ata do dia **25-11-2024** : Sem Ata - Restruturação da Direção
 - Resumo e Ata do dia [21-11-2024](./Encontros_internos/21-11-2024.md) : Formato Presencial 
   - Referente à issue: https://github.com/EspacoCompasso/Reconstruction/issues/2 
 
@@ -27,7 +27,7 @@ Estas reuniões são exporádicas e acontecem por motivos de planeamento e organ
 
 - A Assembleia Geral, constituída por: Presidente e dois Secretários, orienta superiormente a vida e ação da Associação, de harmonia com os estatutos e o regulamento.
 
-    São atribuições da Assembleia Geral:
+São atribuições da Assembleia Geral:
 
 1. Aprovar o Regulamento Interno e suas alterações;
 2. Deliberar sobre alterações aos estatutos;
